@@ -1,4 +1,3 @@
-fdt-prefs
-=========
+# My FDT keys
 
-My [FDT](http://fdt.powerflasher.com) stack, key bindings, etc.
+My [FDT](http://fdt.powerflasher.com) key bindings.
