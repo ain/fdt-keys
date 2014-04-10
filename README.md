@@ -6,6 +6,7 @@ My [FDT](http://fdt.powerflasher.com) key bindings.
 
 ## Usage
 How to use these keys:
+
 1. Download [keys.epf](https://github.com/ain/fdt-keys/raw/master/keys.epf)
 2. In FDT, choose `File > Import > General > Preferences`
 3. Click `Next >` and `Browse` for `keys.epf`
